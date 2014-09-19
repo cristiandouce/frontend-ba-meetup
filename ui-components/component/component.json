@@ -1,0 +1,11 @@
+{
+  "name": "awesome-bg",
+  "version": "0.0.1",
+  "dependencies": {
+    "necolas/normalize.css": "^3.0.1"
+  },
+  "images": [
+    "images/badge.png"
+  ],
+  "styles": ["index.css"]
+}

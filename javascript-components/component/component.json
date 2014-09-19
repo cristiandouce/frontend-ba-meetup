@@ -1,0 +1,8 @@
+{
+  "name": "multiply-by-three",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash/lodash": "^1"
+  },
+  "scripts": ["index.js"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "js-component-npm-browserify",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^1"
+  }
+}
